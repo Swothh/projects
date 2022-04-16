@@ -21,6 +21,13 @@
         "link": "https://linkcord.js.org"
     },
     {
+        "image": "https://cdn.discordapp.com/attachments/915331943875358731/962050065470459974/unknown.png",
+        "logo": "https://avatars.githubusercontent.com/u/103275381?s=400&u=c3a74a230d0bfa6d30ebee09ffbb76ef4291a42e&v=4",
+        "title": "Templatet",
+        "text": "Templatet is an open source project with templates that you can use.",
+        "link": "https://github.com/templatet/"
+    },
+    {
         "image": "https://i.ibb.co/hZXc0p0/seritybanner.png",
         "logo": "https://serity.me/img/serity-logo.png",
         "title": "Serity",
