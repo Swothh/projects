@@ -2,16 +2,23 @@
     {
         "image": "https://i.ibb.co/2WdcqRJ/image.png",
         "logo": "https://partnerbot.xyz/assets/light.png",
-        "title": "Light",
+        "title": "Dark",
         "text": "Experience the advanced Discord, find your server partner now and watch you grow.",
         "link": "https://partnerbot.xyz"
+    },
+    {
+        "image": "https://i.ibb.co/vZYPYpZ/image.png",
+        "logo": "https://i.ibb.co/8bx3G61/image.png",
+        "title": "Daisy",
+        "text": "Are you ready to explore the economy? Crypto, NFT, corporations and more.",
+        "link": "https://daisybot.tech"
     },
     {
         "image": "https://i.ibb.co/1RkZ9rV/resim.png",
         "logo": "https://i.ibb.co/Gx3K97W/giftixlogo.png",
         "title": "AwardBot",
-        "text": "The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
-        "link": "https://awardbot.me"
+        "text": "Open Source. The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
+        "link": "https://github.com/helloaward"
     },
     {
         "image": "https://i.ibb.co/fFqMVXn/linkcordbanner.png",
