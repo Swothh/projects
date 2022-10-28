@@ -1,44 +1,9 @@
 [
     {
-        "image": "https://i.ibb.co/2WdcqRJ/image.png",
-        "logo": "https://i.ibb.co/0CQxqwv/dp.png",
-        "title": "Dark",
-        "text": "Experience the advanced Discord, find your server partner now and watch you grow.",
-        "link": "https://partnerbot.xyz"
+        "image": "https://cdn.discordapp.com/attachments/1032322667837145138/1035549212206694502/A_2.png",
+        "logo": "https://cdn.discordapp.com/attachments/1032322667837145138/1035549248680382474/Screenshot_220.png",
+        "title": "Aeora",
+        "text": "Aeora Bot Sunucunuzu Güzeleştirmek Ve Tarz Katıp Geliştirmek İçin Geliştirilmiştir.",
+        "link": "https://yakında.xyz"
     },
-    {
-        "image": "https://i.ibb.co/vZYPYpZ/image.png",
-        "logo": "https://i.ibb.co/8bx3G61/image.png",
-        "title": "Daisy",
-        "text": "Are you ready to explore the economy? Crypto, NFT, corporations and more.",
-        "link": "https://daisybot.tech"
-    },
-    {
-        "image": "https://i.ibb.co/1RkZ9rV/resim.png",
-        "logo": "https://i.ibb.co/Gx3K97W/giftixlogo.png",
-        "title": "AwardBot",
-        "text": "Open Source. The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
-        "link": "https://github.com/helloaward"
-    },
-    {
-        "image": "https://i.ibb.co/fFqMVXn/linkcordbanner.png",
-        "logo": "https://linkcord.js.org/logo.png",
-        "title": "Linkcord",
-        "text": "Discord Widgets, APIs and more! Instantly show what you're listening to on Spotify!",
-        "link": "https://linkcord.js.org"
-    },
-    {
-        "image": "https://cdn.discordapp.com/attachments/915331943875358731/962050065470459974/unknown.png",
-        "logo": "https://avatars.githubusercontent.com/u/103275381?s=400&u=c3a74a230d0bfa6d30ebee09ffbb76ef4291a42e&v=4",
-        "title": "Templatet",
-        "text": "Templatet is an open source project with templates that you can use.",
-        "link": "https://github.com/templatet/"
-    },
-    {
-        "image": "https://i.ibb.co/hZXc0p0/seritybanner.png",
-        "logo": "https://cdn.discordapp.com/icons/701153938870894673/a567eb70003eb1c502894ac4408d5547.png?size=4096",
-        "title": "Serity",
-        "text": "Create your own unique website with Serity! Licensed and easy-to-install products!",
-        "link": "https://serity.me"
-    }
 ]
