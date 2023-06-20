@@ -14,9 +14,16 @@
         "link": "https://daisybot.tech"
     },
     {
+        "image": "https://i.ibb.co/1TTskC0/image.png",
+        "logo": "https://i.ibb.co/Gx3K97W/giftixlogo.png",
+        "title": "AwardBot v2",
+        "text": "The advanced giveaway bot Award has been further developed and modernized.",
+        "link": "https://awardbot.net"
+    },
+    {
         "image": "https://i.ibb.co/1RkZ9rV/resim.png",
         "logo": "https://i.ibb.co/Gx3K97W/giftixlogo.png",
-        "title": "AwardBot",
+        "title": "AwardBot v1",
         "text": "Open Source. The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
         "link": "https://github.com/helloaward"
     },
